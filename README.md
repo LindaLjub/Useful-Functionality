@@ -1,5 +1,5 @@
 # Useful-functionality
-A collection of usefull things I have learnt in C#.
+A collection of usefull things I have learnt.
 
 ## Dynamiclib
 How to create Dynamic librarys in C++.
@@ -8,7 +8,7 @@ How to create Dynamic librarys in C++.
 How to create Static librarys in C++.
 
 ## Filestream
-How to use filestream to:
+How to use filestream in C# to:
 <br>
 - Read from file
 - See if a file exists

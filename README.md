@@ -1,5 +1,5 @@
 # Useful-functionality
-A collection of usefull things I have learnt.
+Some "nice to have" code.
 
 ## Dynamiclib
 How to create Dynamic librarys in C++.
